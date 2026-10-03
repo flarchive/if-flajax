@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of if/flajax.** Not for installation: use [Packagist](https://packagist.org/packages/if/flajax) or the [upstream repository](https://github.com/arektekieli/FlaJax).
 
-**0** versions archived · Latest: [`0.1.4`](https://github.com/flarchive/if-flajax/tree/archive/v0.1.4) · Flarum: `^1.0`
+**3** versions archived · Latest: [`0.1.4`](https://github.com/flarchive/if-flajax/tree/archive/v0.1.4) · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2021-04-08 | `>=0.1.0-beta.16 <=0.1.0` | [Browse](https://github.com/flarchive/if-flajax/tree/archive/v0.1.0) |
+| `0.1.3` | 2021-05-30 | `1.0` | [Browse](https://github.com/flarchive/if-flajax/tree/archive/v0.1.3) |
+| `0.1.4` | 2021-06-03 | `^1.0` | [Browse](https://github.com/flarchive/if-flajax/tree/archive/v0.1.4) |
 
 Catalog entry: [packages/if-flajax.json](https://github.com/flarchive/archive-index/blob/main/packages/if-flajax.json)
 
